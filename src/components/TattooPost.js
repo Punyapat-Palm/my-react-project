@@ -9,6 +9,7 @@ function TattooPost(props) {
         <div className="tattoo-content">
           <img src={tattoo.imgURL} alt="" />
           <h4>{tattoo.title}</h4>
+          <h3>HI</h3>
         </div>
       </div>
     </div>
